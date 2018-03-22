@@ -4,6 +4,10 @@
   "description": "Stylelint config for approaches adopted by 'Interfaced' company",
   "author": "Interfaced (http://interfaced.tv)",
   "license": "MIT",
+  "files": [
+    "LICENSE",
+    "index.js"
+  ],
   "dependencies": {
     "stylelint-config-standard": "^18.2.0"
   },
