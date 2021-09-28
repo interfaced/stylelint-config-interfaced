@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-interfaced",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Stylelint config for approaches adopted by Interfaced company",
   "author": "Interfaced (https://interfaced.tv)",
   "license": "MIT",
