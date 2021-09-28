@@ -9,22 +9,10 @@
     "index.js"
   ],
   "dependencies": {
-    "stylelint-config-standard": "^18.2.0"
-  },
-  "devDependencies": {
-    "eslint": "^5.15.1",
-    "eslint-config-stylelint": "^11.0.0"
+    "stylelint-config-standard": "^22.0.0"
   },
   "peerDependencies": {
-    "stylelint": "^9.10.1",
-    "stylelint-order": "^2.1.0"
-  },
-  "eslintConfig": {
-    "extends": [
-      "stylelint"
-    ]
-  },
-  "scripts": {
-    "eslint": "eslint ."
+    "stylelint": "^13.13.1",
+    "stylelint-order": "^4.1.0"
   }
 }
